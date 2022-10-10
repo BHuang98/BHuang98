@@ -1,7 +1,29 @@
-### Hi there 👋
+<h1>Hi, I'm Brandon! </h1>
 
+<h2>👨‍💻 Cybersecurity Projects</h2>
+
+
+  - [Practice Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Tenable Nessus Lab](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Microsoft Azure Sentinel Lab](https://github.com/joshmadakor1/Sentinel-Lab)
+  
+<h7>📄Certifications </h7>
+ - [Microsoft Azure Sentinel Lab](https://github.com/joshmadakor1/Sentinel-Lab)
+  
+
+
+<h2>📺 Popular YouTube Videos</h2>
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/b-huang98
 <!--
-**BHuang98/BHuang98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
