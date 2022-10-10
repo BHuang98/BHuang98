@@ -8,7 +8,7 @@
   - [Microsoft Azure Sentinel Lab](https://github.com/joshmadakor1/Sentinel-Lab)
   
 <h7>📄Certifications </h7>
- - [CompTIA Security+](https://github.com/joshmadakor1/Sentinel-Lab)
+ - [CompTIA Security+](https://github.com/BHuang98/BHuang98/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf)
   
 
 
