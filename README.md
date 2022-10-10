@@ -5,7 +5,7 @@
 
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Tenable Nessus Lab](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
-  - [Microsoft Azure Sentinel Lab](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Microsoft Azure Sentinel Lab](https://github.com/BHuang98/Microsoft-Azure-Sentinel-Lab)
   
 <h2>- ⚡ Certifications:</h2>
 
