@@ -3,23 +3,24 @@
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
 
-  - [Practice Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Tenable Nessus Lab](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
   - [Microsoft Azure Sentinel Lab](https://github.com/joshmadakor1/Sentinel-Lab)
   
-<h7>📄Certifications </h7>
+<h2>- ⚡ Certifications:</h2>
+
  - [CompTIA Security+](https://github.com/BHuang98/BHuang98/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf)
   
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2>- 📫 How to reach me:</h2>
 
 
 [<img align="left" alt="BrandonHuang | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/b-huang98
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BHuang98/BHuang98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
