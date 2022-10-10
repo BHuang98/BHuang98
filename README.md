@@ -3,8 +3,8 @@
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Tenable Nessus Lab](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Active Directory Home Lab](https://github.com/BHuang98/Active-Directory-Home-Lab)
+  - [Tenable Nessus Lab](https://github.com/BHuang98/Tenable-Nessus-Lab)
   - [Microsoft Azure Sentinel Lab](https://github.com/BHuang98/Microsoft-Azure-Sentinel-Lab)
   
 <h2>- ⚡ Certifications:</h2>
