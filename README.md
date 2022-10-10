@@ -16,9 +16,11 @@
 <h2>- 📫 How to reach me:</h2>
 
 
-[<img align="left" alt="BrandonHuang | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/b-huang98
+
+  - [linkedin](https://linkedin.com/in/b-huang98)
+  - Email: BHuang91@uw.edu
+  - Cell: (206) 788-7765
 <!--
 **BHuang98/BHuang98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
