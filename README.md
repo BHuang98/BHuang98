@@ -19,7 +19,7 @@
 
 
   - [linkedin](https://linkedin.com/in/b-huang98)
-  - Email: BHuang91@uw.edu
+  - Email: brandonhuang5001@gmail.com
   - Cell: (206) 788-7765
 <!--
 **BHuang98/BHuang98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
