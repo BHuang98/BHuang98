@@ -1,6 +1,6 @@
 <h1>Hi, I'm Brandon! </h1>
 
-<h2>👨‍💻 Cybersecurity Projects</h2>
+<h2>👨‍💻 Cybersecurity/Cloud Projects</h2>
 
 
   - [Active Directory Home Lab](https://github.com/BHuang98/Active-Directory-Home-Lab)
