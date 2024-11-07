@@ -7,6 +7,8 @@
   - [Tenable Nessus Lab](https://github.com/BHuang98/Tenable-Nessus-Lab)
   - [Microsoft Azure Sentinel Lab](https://github.com/BHuang98/Microsoft-Azure-Sentinel-Lab)
   - [Cloud-Architecture](https://github.com/BHuang98/Cloud-Architecture)
+
+
 <h2>- ⚡ Certifications:</h2>
 
  - [CompTIA Security+](https://github.com/BHuang98/BHuang98/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf)
