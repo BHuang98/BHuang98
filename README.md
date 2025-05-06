@@ -8,7 +8,7 @@
   - [Microsoft Azure Sentinel Lab](https://github.com/BHuang98/Microsoft-Azure-Sentinel-Lab)
   - [Cloud-Architecture](https://github.com/BHuang98/Cloud-Architecture)
   - [Terraform Azure](https://github.com/BHuang98/Terraform-Azure)
-  - [Azure Secure Landing Zone]((https://github.com/BHuang98/terraform-labs.git))
+  - [Azure Secure Landing Zone](https://github.com/BHuang98/terraform-labs.git)
 
 
 
