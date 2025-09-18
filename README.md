@@ -3,12 +3,12 @@
 <h2>👨‍💻 Cybersecurity/Cloud Projects</h2>
 
 
-  - [Active Directory Home Lab](https://github.com/BHuang98/Active-Directory-Home-Lab)
-  - [Tenable Nessus Lab](https://github.com/BHuang98/Tenable-Nessus-Lab)
-  - [Microsoft Azure Sentinel Lab](https://github.com/BHuang98/Microsoft-Azure-Sentinel-Lab)
+ 
+ 
+
   - [Cloud-Architecture](https://github.com/BHuang98/Cloud-Architecture)
   - [Terraform Azure](https://github.com/BHuang98/Terraform-Azure)
-  - [Azure Secure Landing Zone](https://github.com/BHuang98/terraform-labs.git)
+ 
 
 
 
